@@ -6,6 +6,8 @@ all my social are at in this [link](https://linktr.ee/0xKoller).
 
 and my projects well... here @ github 😛
 
+main project atm: [regalar](https://regala-me.vercel.app/)
+
 ### stats 📊
 [![Koller's stats](https://github-readme-stats.vercel.app/api?username=0xKoller)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xKOller&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
