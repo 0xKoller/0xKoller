@@ -2,9 +2,7 @@
 
 a dev that just wants to build things
 
-all my social are at in this [link](https://www.0xkoller.me/).
-
-and my projects @ github 
+ [🌎](https://www.0xkoller.me/).
 
 founder [🎁 Regala.app](https://regala.app/) | [🔮 Recordadora.xyz](https://recordadora.xyz/)
 
