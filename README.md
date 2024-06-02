@@ -1,6 +1,6 @@
 ### 👋 Koller 
 
-status: thinking the next big thing
+status: cooking the next big thing
 
 cooking
 
