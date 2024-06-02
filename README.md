@@ -1,5 +1,7 @@
 ### 👋 Koller 
 
+status: thinking the next big thing
+
 cooking
 
 founder [🎁 Regala.app](https://regala.app/) | [🔮 Recordadora.xyz](https://recordadora.xyz/)
