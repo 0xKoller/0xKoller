@@ -4,7 +4,9 @@ status: creating 'Helios,' a platform where data shapes reality.
 
 created 
 [💵 Ars2Usd](https://chromewebstore.google.com/detail/ars2usd/ejhhkpcflhmmlpjnhockoblhijklhokp?hl=es-419): Chrome extension for showcasing currency equivalencies between the Argentine peso and the different exchange rates for the USD in Argentina.
+
 [🎁 Regala.app](https://regala.app/): Share your wishlist with others.
+
 [🔮 Recordadora.xyz](https://recordadora.xyz/): Track the price of your selected products over time to see when the best moment to buy is, and whether an offer is truly a deal or not.
 
 ### mood
