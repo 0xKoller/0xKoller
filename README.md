@@ -1,6 +1,6 @@
 ### 🧙‍♂️ Koller - AKA 'Wizard'
 
-status: creating 'Helios,' a platform where data shapes reality.
+status: creating 'Helios' a platform where data shapes reality.
 
 created 
 
