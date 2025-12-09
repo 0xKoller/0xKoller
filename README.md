@@ -1,8 +1,4 @@
-### 🧙‍♂️ Koller
+just Koller
 
-[💵 Ars2Usd](https://chromewebstore.google.com/detail/ars2usd/ejhhkpcflhmmlpjnhockoblhijklhokp?hl=es-419): Chrome extension for showcasing currency equivalencies between the Argentine peso and the different exchange rates for the USD in Argentina.
-
-### mood
+I am listening to
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kollernqn&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ef6d00&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-[🌎 0xKoller.me](https://www.0xkoller.me/)
